@@ -1,0 +1,22 @@
+.custom-cta {
+    background-color: #ffffff; /* Fondo blanco */
+    color: #333333; /* Texto oscuro */
+    padding: 2rem 0; /* Espaciado superior e inferior */
+    text-align: center; /* Centrar el texto */
+}
+
+.custom-cta h2 {
+    font-size: 2rem; /* Tamaño de fuente del encabezado */
+    font-weight: 700; /* Peso de la fuente */
+    margin-bottom: 1rem; /* Espaciado inferior */
+}
+
+.custom-cta p {
+    font-size: 1.25rem; /* Tamaño de fuente del párrafo */
+    margin-bottom: 1rem; /* Espaciado inferior */
+}
+
+.custom-cta .btn {
+    font-size: 1rem; /* Tamaño de fuente del botón */
+    padding: 0.75rem 1.5rem; /* Espaciado interno del botón */
+}
