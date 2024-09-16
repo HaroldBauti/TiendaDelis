@@ -1,0 +1,32 @@
+.bg-palo-rosa {
+    background-color: #FFD3C2; /* Palo rosa en hexadecimal */
+}
+
+.text-titulo {
+    color: #8675A9; /* Cambia a blanco */
+}
+
+.text-subtitulo {
+    color: #6256CA; /* Ejemplo de color azul, puedes cambiarlo al color deseado */
+}
+
+.bg-total{
+    background-color: #FDFAD9;
+}
+
+.bg-card{
+    background-color: #86D293;
+}
+
+.bg-card-1{
+    background-color: #6256CA;
+}
+
+.text-card{
+    color: whitesmoke;
+}
+.carousel-item img {
+    width: 100%; /* Ajusta la imagen al ancho del contenedor */
+    height: 100%; /* Ajusta la altura de la imagen al contenedor */
+    object-fit: cover; /* Asegura que la imagen cubra el área del contenedor sin distorsionarse */
+}
